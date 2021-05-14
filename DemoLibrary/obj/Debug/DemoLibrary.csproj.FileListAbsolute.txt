@@ -1,0 +1,11 @@
+C:\Users\Leonardo\source\repos\ApiConsumerDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Leonardo\source\repos\ApiConsumerDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Leonardo\source\repos\ApiConsumerDemo\DemoLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leonardo\source\repos\ApiConsumerDemo\DemoLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Leonardo\source\repos\ApiConsumerDemo\DemoLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leonardo\source\repos\ApiConsumerDemo\DemoLibrary\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Leonardo\source\repos\ApiConsumerDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\ApiConsumerDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\ApiConsumerDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CopyComplete
+C:\Users\Leonardo\source\repos\ApiConsumerDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Leonardo\source\repos\ApiConsumerDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
